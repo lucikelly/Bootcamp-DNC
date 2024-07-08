@@ -297,6 +297,9 @@ body{
   .chackbox-itens label {
     font-size: 15px;
   }
+  input[type="checkbox"]{
+    transform: scale(0.9);
+  }
 
   footer .linha1{
     display: flex;
@@ -310,5 +313,6 @@ body{
   footer .linha2 a{
     font-size: 16px;
   }
+
 }
       
